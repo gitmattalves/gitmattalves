@@ -2,8 +2,6 @@
 
 
 
-
-- 🔭 No momento não estou Trabalhando
 - 🌱 Estudando Análise e Ciência de dados
 -  👩‍💻 Formando em Análise e Desenvolvimento de Sistemas
 
