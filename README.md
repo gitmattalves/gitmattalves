@@ -3,8 +3,8 @@
 
 
 - 🌱 Estudando Análise e Ciência de dados
--  👩‍💻 Formado em Análise e Desenvolvimentode Sistemas 
--  👩‍💻 Atuo como Analista de Suporte
+- 👩‍💻 Formado em Análise e Desenvolvimentode Sistemas 
+- 👩‍💻 Atuo como Analista de Suporte
 
 
 <div align="center">
